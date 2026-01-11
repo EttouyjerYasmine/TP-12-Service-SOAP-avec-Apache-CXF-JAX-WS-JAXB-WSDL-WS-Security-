@@ -115,6 +115,9 @@ mvn test
 
 ###  Démonstration
 
+<img width="951" height="503" alt="SayHello" src="https://github.com/user-attachments/assets/8bf78f48-0b37-4bd7-9f42-92c96743eb30" />
+
+
 <img width="953" height="476" alt="YasmineConfiguration" src="https://github.com/user-attachments/assets/3936136b-ba79-448d-a407-3f919af1e000" />
 
 <img width="957" height="497" alt="1" src="https://github.com/user-attachments/assets/68307398-73e4-46c6-ac41-611f6245a71c" />
